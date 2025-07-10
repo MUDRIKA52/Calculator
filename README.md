@@ -93,10 +93,7 @@ cd calculator-project
 ---
 
 ## Link :
-```bash
 https://mudrika52.github.io/Calculator/
-```
-
 ---
 
 ## 🤝 Contributing
