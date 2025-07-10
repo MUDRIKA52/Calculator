@@ -103,8 +103,5 @@ Feel free to fork the repository, make changes, and open a pull request to sugge
 
 Made with ❤️ by **Mudrika Tiwari**
 
-```
-
 ---
-
 
